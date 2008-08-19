@@ -1,0 +1,3 @@
+[submodule "Documentation/Manual"]
+	path = Documentation/Manual
+	url = git@github.com:trms/doc_base.git
